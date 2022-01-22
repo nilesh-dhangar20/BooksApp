@@ -1,0 +1,10 @@
+.search input{
+    border-radius: 20px;
+   text-transform: capitalize;
+   height: 40px;
+    
+}
+.search input:hover{
+    background-color: black;
+    color:white;
+}

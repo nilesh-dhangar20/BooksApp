@@ -31,7 +31,7 @@ const Table = () => {
           className="ps-3"
         />
       </div>
-      <table className="table container table-hover table-bordered text-center mt-5">
+      <table className="table container table-hover table-bordered text-center mt-5 bg-light">
         <thead>
           <tr>
             <th scope="col">Sno</th>
